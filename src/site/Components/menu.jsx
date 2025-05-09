@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 function Menu(){
     return <nav className="navbar fixed-top navbar-expand-md navbar-dark">
@@ -20,6 +21,9 @@ function Menu(){
             </li>
             <li className="nav-item">
               <a className="nav-link" aria-current="page" href="#footer">Contato</a>
+            </li>
+            <li className="nav-item">
+              <Link className="nav-link" to="/politica-de-privacidade">Política de Privacidade</Link>
             </li>
           </ul>
         </div>    

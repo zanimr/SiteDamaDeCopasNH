@@ -5,7 +5,8 @@ function Banner() {
         <section
             id="banner"
             className="py-5"
-            style={{ overflow: 'hidden', marginTop: '4rem' }}
+            style={{ overflow: 'hidden', paddingTop: '6rem' }}
+>
         >
             <div className="container">
                 <div className="row align-items-center">

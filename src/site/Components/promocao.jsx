@@ -34,7 +34,8 @@ export default function PromocaoDelirius() {
           Quanto mais compras, mais chances de ganhar!
 
           O ganhador poderá usufruir do prêmio — uma pernoite na Suíte Master do Deliriu’s Motel — na data de sua escolha, desde que seja entre segunda-feira e quinta-feira.
-
+          O número sorteado será informado em nossas redes sociais, cabendo ao ganhador entrar em contato com a Dama De Copas NH, informando o 
+          interesse em utilizar o prêmio, no prazo de 7 dias após a realização do sorteio.
         </p>
       </div>
 

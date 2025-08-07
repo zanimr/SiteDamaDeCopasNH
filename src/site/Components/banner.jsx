@@ -7,7 +7,7 @@ function Banner() {
             className="py-5"
             style={{ overflow: 'hidden', paddingTop: '6rem' }}
 >
-        >
+        
             <div className="container">
                 <div className="row align-items-center">
 

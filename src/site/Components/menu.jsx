@@ -25,6 +25,9 @@ function Menu(){
             <li className="nav-item">
               <Link className="nav-link" to="/politica-de-privacidade">Política de Privacidade</Link>
             </li>
+            <li className="nav-item">
+              <Link className="nav-link" to="/promocao">Promoção</Link>
+            </li>
           </ul>
         </div>    
       
